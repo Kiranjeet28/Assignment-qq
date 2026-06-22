@@ -1,6 +1,6 @@
 
 const API_BASE =
-    "http://localhost:3000/api";
+    "https://assignment-qq.onrender.com/api";
 
 const productsContainer =
     document.getElementById(
